@@ -1,0 +1,21 @@
+## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version control is a process of tracking and managing changes made to a file over a period of time. A software tool that does this is an example of a version control system. Github has become a popular tool for managing versions of code for its advantage of enhancing effective collaboration amongst teams by managing the branching and merging of codes. Version control helps maintain project integrity through its efficient tracking of processes involved in a project -commits- in versions. 
+
+## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+To set up a new repository on Github, the "new" button is clicked which brings one to the page to finalize the repo creation. On this creation page, the name of the repository (of your choice) is typed. However, a repository name has to be universally unique in your account; that is, one cannot have two repositories with the same name in one's Github account. Then, an optional description is 
+
+## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+
+## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+
+## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+
+## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+
+## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+
+## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+
+## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+
+## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
